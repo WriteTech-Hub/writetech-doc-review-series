@@ -1,0 +1,28 @@
+# default folder path is docs
+docsPath: docs
+structure:
+  summary: summary.md
+# it is relative to docsPath, in this case docs/assets
+  assets: assets
+# footerTemplate, headerIncludes, customCSS, customJS are optional, they can be a string or an existing file
+footerTemplate: ""
+headerIncludes: ""
+customCSS: ""
+customJS: ""
+# shadowDocs is an array of paths/files,  used by archbee-ai to create embeddings, to define context
+shadowDocs:
+#  - "ai/docs/main.js"
+#  - "ai/package/app/**"
+# it will automatically publish the space if it has hostname configured in the settings
+publishSpace: false
+# site is array of objects, that can be used to track multiple paths in the same repo
+sites:
+#  - docsPath: apps/frontend/docs
+#    structure:
+#      summary: summary.md
+#      assets: assets
+#  - docsPath: apps/backend/docs
+#    structure:
+#      summary: summary.md
+#      assets: assets
+#    customCSS: ""
