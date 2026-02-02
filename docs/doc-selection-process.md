@@ -1,13 +1,16 @@
 # Documentation selection process
 
 ## Overview
-This document outlines the process for selecting technical documentation for the WriteTech Hub Review Initiative.
+
+This document outlines the process for selecting different technical documentation for the WriteTech Hub Review Initiative.
 
 ## Selection frequency
-- Documentation selection occurs per cycle.
+
+- Documentation selection occurs per specified cycle.
 - Community members will be notified two weeks in advance.
 
 ## Selection process
+
 1. **List creation**: A list of available technical documentation will be compiled.
 2. **Community involvement**: The list will be shared with community members to express interest.
 3. **Tracking**: Selections will be tracked to ensure coverage and avoid duplicate reviews.
