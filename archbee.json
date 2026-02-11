@@ -1,0 +1,15 @@
+{
+  "$schema": "https://api.archbee.com/git-config-schema",
+  "docsPath": "docs",
+  "structure": {
+    "summary": "summary.md",
+    "assets": "assets"
+  },
+  "footerTemplate": "",
+  "headerIncludes": "",
+  "customCSS": "",
+  "customJS": "",
+  "shadowDocs": [],
+  "publishSpace": false,
+  "sites": []
+}
